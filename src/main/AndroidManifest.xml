@@ -90,12 +90,14 @@
         </intent-filter>
       </activity>
 
+        <!--
         <activity
                 android:name=".SetupManagementActivity"
                 android:theme="@style/SudThemeGlifV3.Light"
                 android:label="@string/setup_app_name"
                 android:taskAffinity="">
         </activity>
+        -->
 
         <activity-alias
                 android:name=".SetupManagementLaunchActivity"

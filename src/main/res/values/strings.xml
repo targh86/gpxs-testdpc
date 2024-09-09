@@ -16,8 +16,8 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Test DPC</string>
-    <string name="setup_app_name">Set up Test DPC</string>
+    <string name="app_name">GPXS DPC</string>
+    <string name="setup_app_name">Set up GPXS DPC</string>
     <string name="cancel">Cancel</string>
     <string name="set_up_managed_profile">Set up managed profile</string>
     <string name="set_up_device_owner">Set up device owner</string>
@@ -127,8 +127,8 @@
     <string name="this_is_not_an_admin">This app is not an admin.</string>
 
     <!-- Strings for provisioning disclaimers-->
-    <string name="default_disclaimer_company_name">TestDPC Company</string>
-    <string name="default_disclaimer_emm_name">TestDPC EMM</string>
+    <string name="default_disclaimer_company_name">GPXS Team</string>
+    <string name="default_disclaimer_emm_name">GPXS DPC EMM</string>
 
     <!-- Strings for device owner management -->
     <string name="device_owner_management">Device owner management</string>
